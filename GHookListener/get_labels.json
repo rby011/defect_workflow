@@ -1,0 +1,90 @@
+[
+  {
+    "id": 924836614,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/closed",
+    "name": "closed",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923341873,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/critical",
+    "name": "critical",
+    "color": "b60205",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923342467,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/deep%20visual%20understanding",
+    "name": "deep visual understanding",
+    "color": "fbca04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923342110,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/functionality",
+    "name": "functionality",
+    "color": "1d76db",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923341922,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/major",
+    "name": "major",
+    "color": "b60205",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923341960,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/minor",
+    "name": "minor",
+    "color": "b60205",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923342581,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/neural%20machine%20transalation",
+    "name": "neural machine transalation",
+    "color": "fbca04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 923342265,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/non-functinality",
+    "name": "non-functinality",
+    "color": "1d76db",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 924836282,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/opened",
+    "name": "opened",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 924836435,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/resolved",
+    "name": "resolved",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 924836216,
+    "url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/submitted",
+    "name": "submitted",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  }
+]
