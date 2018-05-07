@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://api.github.com/projects/columns/2661007",
+    "project_url": "https://api.github.com/projects/1486874",
+    "cards_url": "https://api.github.com/projects/columns/2661007/cards",
+    "id": 2661007,
+    "name": "Submitted",
+    "created_at": "2018-05-05T04:22:12Z",
+    "updated_at": "2018-05-07T05:21:57Z"
+  },
+  {
+    "url": "https://api.github.com/projects/columns/2661008",
+    "project_url": "https://api.github.com/projects/1486874",
+    "cards_url": "https://api.github.com/projects/columns/2661008/cards",
+    "id": 2661008,
+    "name": "Open",
+    "created_at": "2018-05-05T04:22:27Z",
+    "updated_at": "2018-05-07T05:21:57Z"
+  },
+  {
+    "url": "https://api.github.com/projects/columns/2661009",
+    "project_url": "https://api.github.com/projects/1486874",
+    "cards_url": "https://api.github.com/projects/columns/2661009/cards",
+    "id": 2661009,
+    "name": "Resolved",
+    "created_at": "2018-05-05T04:22:41Z",
+    "updated_at": "2018-05-07T03:46:29Z"
+  },
+  {
+    "url": "https://api.github.com/projects/columns/2661010",
+    "project_url": "https://api.github.com/projects/1486874",
+    "cards_url": "https://api.github.com/projects/columns/2661010/cards",
+    "id": 2661010,
+    "name": "Close",
+    "created_at": "2018-05-05T04:22:47Z",
+    "updated_at": "2018-05-07T03:35:39Z"
+  }
+]

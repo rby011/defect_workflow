@@ -1,0 +1,306 @@
+{
+	"action": "assigned",
+	"issue": 
+	{
+		"url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues/5",
+		"repository_url": "https://api.github.com/repos/CHSUNSONG/star-platform",
+		"labels_url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues/5/labels{/name}",
+		"comments_url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues/5/comments",
+		"events_url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues/5/events",
+		"html_url": "https://github.com/CHSUNSONG/star-platform/issues/5",
+		"id": 320770353,
+		"number": 5,
+		"title": "Issue #5",
+		"user": 
+		{
+			"login": "rby011",
+			"id": 8166924,
+			"avatar_url": "https://avatars1.githubusercontent.com/u/8166924?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/rby011",
+			"html_url": "https://github.com/rby011",
+			"followers_url": "https://api.github.com/users/rby011/followers",
+			"following_url": "https://api.github.com/users/rby011/following{/other_user}",
+			"gists_url": "https://api.github.com/users/rby011/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/rby011/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/rby011/subscriptions",
+			"organizations_url": "https://api.github.com/users/rby011/orgs",
+			"repos_url": "https://api.github.com/users/rby011/repos",
+			"events_url": "https://api.github.com/users/rby011/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/rby011/received_events",
+			"type": "User",
+			"site_admin": false
+		},
+
+		"labels": 
+		[
+			{
+				"id": 923341873,
+				"url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/critical",
+				"name": "critical",
+				"color": "b60205",
+				"default": false
+			},
+
+			{
+				"id": 923342467,
+				"url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/deep%20visual%20understanding",
+				"name": "deep visual understanding",
+				"color": "fbca04",
+				"default": false
+			},
+
+			{
+				"id": 923342110,
+				"url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels/functionality",
+				"name": "functionality",
+				"color": "1d76db",
+				"default": false
+			}
+		],
+
+		"state": "open",
+		"locked": false,
+		"assignee": 
+		{
+			"login": "rby011",
+			"id": 8166924,
+			"avatar_url": "https://avatars1.githubusercontent.com/u/8166924?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/rby011",
+			"html_url": "https://github.com/rby011",
+			"followers_url": "https://api.github.com/users/rby011/followers",
+			"following_url": "https://api.github.com/users/rby011/following{/other_user}",
+			"gists_url": "https://api.github.com/users/rby011/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/rby011/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/rby011/subscriptions",
+			"organizations_url": "https://api.github.com/users/rby011/orgs",
+			"repos_url": "https://api.github.com/users/rby011/repos",
+			"events_url": "https://api.github.com/users/rby011/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/rby011/received_events",
+			"type": "User",
+			"site_admin": false
+		},
+
+		"assignees": 
+		[
+			{
+				"login": "rby011",
+				"id": 8166924,
+				"avatar_url": "https://avatars1.githubusercontent.com/u/8166924?v=4",
+				"gravatar_id": "",
+				"url": "https://api.github.com/users/rby011",
+				"html_url": "https://github.com/rby011",
+				"followers_url": "https://api.github.com/users/rby011/followers",
+				"following_url": "https://api.github.com/users/rby011/following{/other_user}",
+				"gists_url": "https://api.github.com/users/rby011/gists{/gist_id}",
+				"starred_url": "https://api.github.com/users/rby011/starred{/owner}{/repo}",
+				"subscriptions_url": "https://api.github.com/users/rby011/subscriptions",
+				"organizations_url": "https://api.github.com/users/rby011/orgs",
+				"repos_url": "https://api.github.com/users/rby011/repos",
+				"events_url": "https://api.github.com/users/rby011/events{/privacy}",
+				"received_events_url": "https://api.github.com/users/rby011/received_events",
+				"type": "User",
+				"site_admin": false
+			}
+		],
+
+		"milestone": 
+		{
+			"url": "https://api.github.com/repos/CHSUNSONG/star-platform/milestones/1",
+			"html_url": "https://github.com/CHSUNSONG/star-platform/milestone/1",
+			"labels_url": "https://api.github.com/repos/CHSUNSONG/star-platform/milestones/1/labels",
+			"id": 3322295,
+			"number": 1,
+			"title": "release candidate - 1",
+			"description": "",
+			"creator": 
+			{
+				"login": "rby011",
+				"id": 8166924,
+				"avatar_url": "https://avatars1.githubusercontent.com/u/8166924?v=4",
+				"gravatar_id": "",
+				"url": "https://api.github.com/users/rby011",
+				"html_url": "https://github.com/rby011",
+				"followers_url": "https://api.github.com/users/rby011/followers",
+				"following_url": "https://api.github.com/users/rby011/following{/other_user}",
+				"gists_url": "https://api.github.com/users/rby011/gists{/gist_id}",
+				"starred_url": "https://api.github.com/users/rby011/starred{/owner}{/repo}",
+				"subscriptions_url": "https://api.github.com/users/rby011/subscriptions",
+				"organizations_url": "https://api.github.com/users/rby011/orgs",
+				"repos_url": "https://api.github.com/users/rby011/repos",
+				"events_url": "https://api.github.com/users/rby011/events{/privacy}",
+				"received_events_url": "https://api.github.com/users/rby011/received_events",
+				"type": "User",
+				"site_admin": false
+			},
+
+			"open_issues": 3,
+			"closed_issues": 2,
+			"state": "open",
+			"created_at": "2018-05-05T04:28:36Z",
+			"updated_at": "2018-05-07T11:32:51Z",
+			"due_on": null,
+			"closed_at": null
+		},
+
+		"comments": 0,
+		"created_at": "2018-05-07T11:32:51Z",
+		"updated_at": "2018-05-07T11:44:00Z",
+		"closed_at": null,
+		"author_association": "CONTRIBUTOR",
+		"body": ""
+	},
+
+	"assignee": 
+	{
+		"login": "rby011",
+		"id": 8166924,
+		"avatar_url": "https://avatars1.githubusercontent.com/u/8166924?v=4",
+		"gravatar_id": "",
+		"url": "https://api.github.com/users/rby011",
+		"html_url": "https://github.com/rby011",
+		"followers_url": "https://api.github.com/users/rby011/followers",
+		"following_url": "https://api.github.com/users/rby011/following{/other_user}",
+		"gists_url": "https://api.github.com/users/rby011/gists{/gist_id}",
+		"starred_url": "https://api.github.com/users/rby011/starred{/owner}{/repo}",
+		"subscriptions_url": "https://api.github.com/users/rby011/subscriptions",
+		"organizations_url": "https://api.github.com/users/rby011/orgs",
+		"repos_url": "https://api.github.com/users/rby011/repos",
+		"events_url": "https://api.github.com/users/rby011/events{/privacy}",
+		"received_events_url": "https://api.github.com/users/rby011/received_events",
+		"type": "User",
+		"site_admin": false
+	},
+
+	"repository": 
+	{
+		"id": 132212948,
+		"name": "star-platform",
+		"full_name": "CHSUNSONG/star-platform",
+		"owner": 
+		{
+			"login": "CHSUNSONG",
+			"id": 38997317,
+			"avatar_url": "https://avatars1.githubusercontent.com/u/38997317?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/CHSUNSONG",
+			"html_url": "https://github.com/CHSUNSONG",
+			"followers_url": "https://api.github.com/users/CHSUNSONG/followers",
+			"following_url": "https://api.github.com/users/CHSUNSONG/following{/other_user}",
+			"gists_url": "https://api.github.com/users/CHSUNSONG/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/CHSUNSONG/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/CHSUNSONG/subscriptions",
+			"organizations_url": "https://api.github.com/users/CHSUNSONG/orgs",
+			"repos_url": "https://api.github.com/users/CHSUNSONG/repos",
+			"events_url": "https://api.github.com/users/CHSUNSONG/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/CHSUNSONG/received_events",
+			"type": "Organization",
+			"site_admin": false
+		},
+
+		"private": false,
+		"html_url": "https://github.com/CHSUNSONG/star-platform",
+		"description": null,
+		"fork": false,
+		"url": "https://api.github.com/repos/CHSUNSONG/star-platform",
+		"forks_url": "https://api.github.com/repos/CHSUNSONG/star-platform/forks",
+		"keys_url": "https://api.github.com/repos/CHSUNSONG/star-platform/keys{/key_id}",
+		"collaborators_url": "https://api.github.com/repos/CHSUNSONG/star-platform/collaborators{/collaborator}",
+		"teams_url": "https://api.github.com/repos/CHSUNSONG/star-platform/teams",
+		"hooks_url": "https://api.github.com/repos/CHSUNSONG/star-platform/hooks",
+		"issue_events_url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues/events{/number}",
+		"events_url": "https://api.github.com/repos/CHSUNSONG/star-platform/events",
+		"assignees_url": "https://api.github.com/repos/CHSUNSONG/star-platform/assignees{/user}",
+		"branches_url": "https://api.github.com/repos/CHSUNSONG/star-platform/branches{/branch}",
+		"tags_url": "https://api.github.com/repos/CHSUNSONG/star-platform/tags",
+		"blobs_url": "https://api.github.com/repos/CHSUNSONG/star-platform/git/blobs{/sha}",
+		"git_tags_url": "https://api.github.com/repos/CHSUNSONG/star-platform/git/tags{/sha}",
+		"git_refs_url": "https://api.github.com/repos/CHSUNSONG/star-platform/git/refs{/sha}",
+		"trees_url": "https://api.github.com/repos/CHSUNSONG/star-platform/git/trees{/sha}",
+		"statuses_url": "https://api.github.com/repos/CHSUNSONG/star-platform/statuses/{sha}",
+		"languages_url": "https://api.github.com/repos/CHSUNSONG/star-platform/languages",
+		"stargazers_url": "https://api.github.com/repos/CHSUNSONG/star-platform/stargazers",
+		"contributors_url": "https://api.github.com/repos/CHSUNSONG/star-platform/contributors",
+		"subscribers_url": "https://api.github.com/repos/CHSUNSONG/star-platform/subscribers",
+		"subscription_url": "https://api.github.com/repos/CHSUNSONG/star-platform/subscription",
+		"commits_url": "https://api.github.com/repos/CHSUNSONG/star-platform/commits{/sha}",
+		"git_commits_url": "https://api.github.com/repos/CHSUNSONG/star-platform/git/commits{/sha}",
+		"comments_url": "https://api.github.com/repos/CHSUNSONG/star-platform/comments{/number}",
+		"issue_comment_url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues/comments{/number}",
+		"contents_url": "https://api.github.com/repos/CHSUNSONG/star-platform/contents/{+path}",
+		"compare_url": "https://api.github.com/repos/CHSUNSONG/star-platform/compare/{base}...{head}",
+		"merges_url": "https://api.github.com/repos/CHSUNSONG/star-platform/merges",
+		"archive_url": "https://api.github.com/repos/CHSUNSONG/star-platform/{archive_format}{/ref}",
+		"downloads_url": "https://api.github.com/repos/CHSUNSONG/star-platform/downloads",
+		"issues_url": "https://api.github.com/repos/CHSUNSONG/star-platform/issues{/number}",
+		"pulls_url": "https://api.github.com/repos/CHSUNSONG/star-platform/pulls{/number}",
+		"milestones_url": "https://api.github.com/repos/CHSUNSONG/star-platform/milestones{/number}",
+		"notifications_url": "https://api.github.com/repos/CHSUNSONG/star-platform/notifications{?since,all,participating}",
+		"labels_url": "https://api.github.com/repos/CHSUNSONG/star-platform/labels{/name}",
+		"releases_url": "https://api.github.com/repos/CHSUNSONG/star-platform/releases{/id}",
+		"deployments_url": "https://api.github.com/repos/CHSUNSONG/star-platform/deployments",
+		"created_at": "2018-05-05T03:58:15Z",
+		"updated_at": "2018-05-05T04:20:59Z",
+		"pushed_at": "2018-05-05T04:20:58Z",
+		"git_url": "git://github.com/CHSUNSONG/star-platform.git",
+		"ssh_url": "git@github.com:CHSUNSONG/star-platform.git",
+		"clone_url": "https://github.com/CHSUNSONG/star-platform.git",
+		"svn_url": "https://github.com/CHSUNSONG/star-platform",
+		"homepage": null,
+		"size": 1,
+		"stargazers_count": 0,
+		"watchers_count": 0,
+		"language": null,
+		"has_issues": true,
+		"has_projects": true,
+		"has_downloads": true,
+		"has_wiki": true,
+		"has_pages": true,
+		"forks_count": 0,
+		"mirror_url": null,
+		"archived": false,
+		"open_issues_count": 3,
+		"license": null,
+		"forks": 0,
+		"open_issues": 3,
+		"watchers": 0,
+		"default_branch": "master"
+	},
+
+	"organization": 
+	{
+		"login": "CHSUNSONG",
+		"id": 38997317,
+		"url": "https://api.github.com/orgs/CHSUNSONG",
+		"repos_url": "https://api.github.com/orgs/CHSUNSONG/repos",
+		"events_url": "https://api.github.com/orgs/CHSUNSONG/events",
+		"hooks_url": "https://api.github.com/orgs/CHSUNSONG/hooks",
+		"issues_url": "https://api.github.com/orgs/CHSUNSONG/issues",
+		"members_url": "https://api.github.com/orgs/CHSUNSONG/members{/member}",
+		"public_members_url": "https://api.github.com/orgs/CHSUNSONG/public_members{/member}",
+		"avatar_url": "https://avatars1.githubusercontent.com/u/38997317?v=4",
+		"description": null
+	},
+
+	"sender": 
+	{
+		"login": "rby011",
+		"id": 8166924,
+		"avatar_url": "https://avatars1.githubusercontent.com/u/8166924?v=4",
+		"gravatar_id": "",
+		"url": "https://api.github.com/users/rby011",
+		"html_url": "https://github.com/rby011",
+		"followers_url": "https://api.github.com/users/rby011/followers",
+		"following_url": "https://api.github.com/users/rby011/following{/other_user}",
+		"gists_url": "https://api.github.com/users/rby011/gists{/gist_id}",
+		"starred_url": "https://api.github.com/users/rby011/starred{/owner}{/repo}",
+		"subscriptions_url": "https://api.github.com/users/rby011/subscriptions",
+		"organizations_url": "https://api.github.com/users/rby011/orgs",
+		"repos_url": "https://api.github.com/users/rby011/repos",
+		"events_url": "https://api.github.com/users/rby011/events{/privacy}",
+		"received_events_url": "https://api.github.com/users/rby011/received_events",
+		"type": "User",
+		"site_admin": false
+	}
+}
