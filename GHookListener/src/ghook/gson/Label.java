@@ -4,4 +4,5 @@ public class Label {
 	public String id;
 	public String url;
 	public String name;
+	public String color;
 }

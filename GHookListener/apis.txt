@@ -11,4 +11,7 @@ curl -H "Authorization: token 2a13ccf29606dca0c8dc07a3d5adacd57e67afdb" -H  "Acc
 curl -H "Authorization: token 2a13ccf29606dca0c8dc07a3d5adacd57e67afdb" -H  "Accept: application/vnd.github.inertia-preview+json" https://api.github.com/projects/columns/2661007/cards
 
 5. repository 內  label 목록
-curl -H "Authorization: token 2a13ccf29606dca0c8dc07a3d5adacd57e67afdb" -H  "Accept: application/vnd.github.symmetra-preview+json" https://api.github.com/repos/CHSUNSONG/star-platform/labels
+curl -H "Authorization: token 2471398598f63b65e6a8039d5a1a0970e2818bf7" -H  "Accept: application/vnd.github.symmetra-preview+json" https://api.github.com/repos/CHSUNSONG/star-platform/labels
+
+6. issue 에 label 하나 추가
+curl -X POST "Authorization: token 2471398598f63b65e6a8039d5a1a0970e2818bf7" -H  "Accept: application/vnd.github.symmetra-preview+json"  -d "["submitted"] https://api.github.com/repos/CHSUNSONG/star-platform/issues/11
